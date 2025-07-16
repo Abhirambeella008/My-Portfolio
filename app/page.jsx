@@ -179,7 +179,7 @@ export default function Portfolio() {
   }
 
   const handleAdminLogin = () => {
-    if (adminPassword === "admin123") {
+    if (adminPassword === "Abhiram@5857") {
       setIsAdmin(true)
       setAdminPassword("")
     } else {
