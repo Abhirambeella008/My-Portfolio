@@ -58,7 +58,7 @@ const PORTFOLIO_CONFIG = {
   personal: {
     name: "BEELLA OM ABHIRAM",
     title: "Full Stack Developer & AI Enthusiast",
-    subtitle: "I build things for the web & mobile.",
+    subtitle: "I build things for the web.",
     email: "arram6651@gmail.com",
     phone: "+91 7815858575",
     location: "Penugonda, India",
